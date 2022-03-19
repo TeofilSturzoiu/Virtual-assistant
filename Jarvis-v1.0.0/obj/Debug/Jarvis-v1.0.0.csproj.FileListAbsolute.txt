@@ -1,0 +1,37 @@
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.exe.config
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.exe
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.pdb
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csprojAssemblyReference.cache
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis_v1._0._0.Properties.Resources.resources
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.GenerateResource.cache
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.exe
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.pdb
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis_v1._0._0.Jarvis.resources
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.EnvDTE.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.VSLangProj.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.VSLangProj2.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.ResolveComReference.cache
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Microsoft.Azure.Common.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Hyak.Common.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.CopyComplete
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.exe.config
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.exe
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Jarvis-v1.0.0.pdb
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Microsoft.Azure.Common.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Hyak.Common.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\bin\Debug\Newtonsoft.Json.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.AssemblyReference.cache
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.SuggestedBindingRedirects.cache
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.EnvDTE.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.VSLangProj.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Interop.VSLangProj2.dll
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.ResolveComReference.cache
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis_v1._0._0.Jarvis.resources
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis_v1._0._0.Properties.Resources.resources
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.GenerateResource.cache
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.CoreCompileInputs.cache
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.csproj.CopyComplete
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.exe
+D:\Old Laptop\Work\C#\Jarvis-v1.0.0\Jarvis-v1.0.0\obj\Debug\Jarvis-v1.0.0.pdb

@@ -1,0 +1,15 @@
+hello Jarvis
+hi Jarvis
+Jarvis how are you?
+Jravis what is the date?
+Jarvis Open browser for me
+Jarvis End process
+What is your name?
+Jarvis Who created you?
+Jarvis Play a movie for me
+Jarvis, hello
+Jarvis, hi
+Jarvis what day is it
+what time is it
+who are you
+test
